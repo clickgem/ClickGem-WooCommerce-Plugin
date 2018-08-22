@@ -1,5 +1,7 @@
-=== ClickGem PayGate ===
-Donate link: https://api.clickgem.com/paygate/
-Requires at least: 1.0.0
+This plugin supports wooCommerce website to receive payment via ClickGem PayGate
 
-The plugin supports woocommerce payments via the Paygate Paygate portal
+=== ClickGem PayGate ===
+Introduction: https://www.clickgem.com/paygate.html
+Presentation: https://www.clickgem.com/presentation.html
+Detail solution: https://www.clickgem.com/uploads/attachments/General-Idea-and-Strategy.pdf
+API: https://api.clickgem.com/paygate/
