@@ -1,4 +1,4 @@
-This plugin supports wooCommerce website to receive payment via ClickGem PayGate
+This plugin supports wooCommerce website to process and receive payments via ClickGem PayGate
 
 === ClickGem PayGate ===
 Introduction: https://www.clickgem.com/paygate.html
